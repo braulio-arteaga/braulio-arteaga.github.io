@@ -1,6 +1,8 @@
 ---
 title: "Excess_Mort"
-collection: portfolio
+permalink: /portfolio/
+author_profile: true
+#collection: portfolio
 ---
 
 <!--The **collaborative** project aims to estimate excess mortality between 2020 and 2021 in Perú. It includes data cleaning, descriptive and spatial analysis, and estimation using deterministic and bayesian methods.
