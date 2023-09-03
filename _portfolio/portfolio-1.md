@@ -6,9 +6,10 @@ collection: portfolio
 <!--The **collaborative** project aims to estimate excess mortality between 2020 and 2021 in Perú. It includes data cleaning, descriptive and spatial analysis, and estimation using deterministic and bayesian methods.
 
 
+
 <!-- User Project #1: Personal Résumé Website -->
 <div class="user-projects">
-<div class="images-right">
+<div class="images-right" style="float: right; margin-left: 10px;">
     <picture>
     <img alt="Personal Website" src="/images/map_men_2017_2021_v2.jpg"/>
     </picture>
