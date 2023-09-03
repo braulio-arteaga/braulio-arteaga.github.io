@@ -1,6 +1,6 @@
 ---
 title: "Excess_Mort"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/map_men_2017_2021_v2.png' width="500px" height="300px">"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/map_men_2017_2021_v2.jpg'>"
 collection: portfolio
 ---
 
