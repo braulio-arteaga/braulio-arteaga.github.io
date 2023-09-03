@@ -11,7 +11,7 @@ The **collaborative** project aims to estimate excess mortality between 2020 and
 <div class="user-projects">
 <div class="images-right">
     <picture>
-    <img alt="Personal Website" src="/images/map_men_2017_2021_v2.jpg" width='500px' height='300px' />
+    <img alt="Personal Website" src="/images/map_men_2017_2021_v2.jpg"/>
     </picture>
 </div> 
 <div class="contents" style="text-align: center">
