@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Excess_Mort"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/map_men_2017_2021_v2.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+The **collaborative** project aims to estimate excess mortality between 2020 and 2021 in Perú. It includes data cleaning, descriptive and spatial analysis, and estimation using deterministic and bayesian methods.
