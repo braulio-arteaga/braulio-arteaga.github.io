@@ -1,6 +1,6 @@
 ---
-title: "Projects"
 permalink: /projects/
+title: "Projects"
 author_profile: true
 #collection: portfolio
 ---
@@ -13,11 +13,11 @@ author_profile: true
 <div class="user-projects">
   <div class="images-right" style="float: left; margin-right: 10px;">
     <picture>
-      <img alt="Personal Website" src="/images/map_men_2017_2021_v2.jpg" width="200px" height="100px">
+      <img alt="Excess Mort" src="/images/map_men_2017_2021.jpg" width="200px" height="100px">
     </picture>
   </div>
   <div class="contents" style="text-align: left;">
-    <h3>Personal Website</h3>
+    <h3>Excess Mort</h3>
     <div>
       <img
         height="32"
