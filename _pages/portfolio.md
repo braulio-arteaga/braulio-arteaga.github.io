@@ -1,5 +1,5 @@
 ---
-title: "Excess_Mort"
+title: "Projects"
 permalink: /portfolio/
 author_profile: true
 #collection: portfolio
