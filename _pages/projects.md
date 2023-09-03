@@ -17,7 +17,7 @@ author_profile: true
     </picture>
   </div>
   <div class="contents" style="text-align: left;">
-    <h3>Excess Mort</h3>
+    <h3><a href="https://github.com/healthinnovation/Excess_Mort">Excess Mort</a></h3>
     <div>
       <img
         height="32"
@@ -29,8 +29,7 @@ author_profile: true
       <img height="32" width="32" src="https://unpkg.com/simple-icons@3.4.0/icons/github.svg" />
     </div>
     <p style="text-align: justify;">
+        I contributed to the estimation and analysis of excess mortality between 2020 and 2021 in Perú. This included data cleaning, descriptive and spatial analysis, and estimation using deterministic and bayesian methods.
     </p>
-       I contributed to the estimation and analysis of excess mortality between 2020 and 2021 in Perú. This included data cleaning, descriptive and spatial analysis, and estimation using deterministic and bayesian methods.
-    <a class="project-link" target="_blank" href="https://github.com/healthinnovation/Excess_Mort">Check it out!</a>
   </div>
 </div>
