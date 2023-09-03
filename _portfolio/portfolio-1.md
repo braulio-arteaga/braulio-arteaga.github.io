@@ -1,10 +1,9 @@
 ---
 title: "Excess_Mort"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/map_men_2017_2021_v2.jpg' width='500px' height='300px'>"
 collection: portfolio
 ---
 
-The **collaborative** project aims to estimate excess mortality between 2020 and 2021 in Perú. It includes data cleaning, descriptive and spatial analysis, and estimation using deterministic and bayesian methods.
+<!--The **collaborative** project aims to estimate excess mortality between 2020 and 2021 in Perú. It includes data cleaning, descriptive and spatial analysis, and estimation using deterministic and bayesian methods.
 
 
 <!-- User Project #1: Personal Résumé Website -->
