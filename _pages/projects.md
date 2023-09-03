@@ -1,6 +1,6 @@
 ---
 title: "Projects"
-permalink: /portfolio/
+permalink: /projects/
 author_profile: true
 #collection: portfolio
 ---
@@ -22,24 +22,15 @@ author_profile: true
       <img
         height="32"
         width="32"
-        src="https://unpkg.com/simple-icons@3.4.0/icons/react.svg"
+        src="https://unpkg.com/simple-icons@5.0.0/icons/rstudio.svg"
         style="filter: invert(73%) sepia(74%) saturate(1552%) hue-rotate(169deg) brightness(109%) contrast(97%)"
-      />
-      &nbsp;
-      <img
-        height="32"
-        width="32"
-        src="https://unpkg.com/simple-icons@3.4.0/icons/bootstrap.svg"
-        style="filter: invert(24%) sepia(14%) saturate(2270%) hue-rotate(222deg) brightness(102%) contrast(90%)"
       />
       &nbsp;
       <img height="32" width="32" src="https://unpkg.com/simple-icons@3.4.0/icons/github.svg" />
     </div>
     <p style="text-align: justify;">
-      I developed and designed a website using ReactJS and Bootstrap, hosted on Github Pages, to showcase my web
-      presence, story, work experience, education, projects, and achievements in an interactive and
-      visually-appealing format.
     </p>
-    <a class="project-link" target="_blank" href="https://www.adityavsingh.com/">Check it out!</a>
+       I contributed to the estimation and analysis of excess mortality between 2020 and 2021 in Perú. This included data cleaning, descriptive and spatial analysis, and estimation using deterministic and bayesian methods.
+    <a class="project-link" target="_blank" href="https://github.com/healthinnovation/Excess_Mort">Check it out!</a>
   </div>
 </div>
