@@ -10,9 +10,9 @@ author_profile: true
 
 <!-- User Project #1: Excess Mort -->
 <div class="user-projects">
-  <div class="images-right" style="float: left; margin-right: 10px;">
+  <div class="images-right" style="float: center; margin-right: 15px;">
     <picture>
-      <img alt="Excess Mort" src="/images/map_men_2017_2021.jpg">
+      <img alt="Excess Mort" src="/images/map_men_2017_2021.jpg" width="300px" height="300px">
     </picture>
   </div>
   <div class="contents" style="text-align: left;">
@@ -28,7 +28,7 @@ author_profile: true
       <img height="32" width="32" src="https://unpkg.com/simple-icons@3.4.0/icons/github.svg" />
     </div>
     <p style="text-align: justify;">
-        Estimation and analysis of excess mortality between 2020 and 2021 in Perú. This included data cleaning, descriptive and spatial analysis, and estimation using deterministic and bayesian methods.
+        stimation and analysis of excess mortality between 2020 and 2021 in Perú. This included data cleaning, descriptive and spatial analysis, and estimation using deterministic and bayesian methods.
     </p>
   </div>
 </div>
@@ -38,7 +38,7 @@ author_profile: true
 <div class="user-projects">
   <div class="images-right" style="float: left; margin-right: 10px;">
     <picture>
-      <img alt="LGTBI Graphics" src="/images/2.Discriminación_LGBTI.png" >
+      <img alt="LGTBI Graphics" src="/images/2.Discriminación_LGBTI.png" width="300px" height="300px">
     </picture>
   </div>
   <div class="contents" style="text-align: left;">
@@ -64,7 +64,7 @@ author_profile: true
 <div class="user-projects">
   <div class="images-right" style="float: left; margin-right: 10px;">
     <picture>
-      <img alt="WhatsApp messages bulk sending" src="/images/2.Discriminación_LGBTI.png">
+      <img alt="WhatsApp messages bulk sending" src="/images/2.Discriminación_LGBTI.png" width="300px" height="300px">
     </picture>
   </div>
   <div class="contents" style="text-align: left;">
@@ -90,7 +90,7 @@ author_profile: true
 <div class="user-projects">
   <div class="images-right" style="float: left; margin-right: 10px;">
     <picture>
-      <img alt="Tambos_MIDIS_Peru" src="/images/2.Discriminación_LGBTI.png">
+      <img alt="Tambos_MIDIS_Peru" src="/images/2.Discriminación_LGBTI.png" width="300px" height="300px">
     </picture>
   </div>
   <div class="contents" style="text-align: left;">
