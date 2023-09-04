@@ -18,6 +18,5 @@ My research interests are applied microeconomics, development economics, and dat
 You can contact me at [marden.arteaga@unmsm.edu.pe](mailto:marden.arteaga@unmsm.edu.pe) 
 
 
-<!--I created a collection of open source projects (using R and #Python) that could be valuable resources for academics, #students and government. 
 
 
