@@ -12,7 +12,7 @@ author_profile: true
 <div class="user-projects">
   <div class="images-right" style="float: left; margin-right: 10px;">
     <picture>
-      <img alt="Excess Mort" src="/images/map_men.jpg" width="250px" height="250px">
+      <img alt="Excess Mort" src="/images/map_men.jpg" width="200px" height="200px">
     </picture>
   </div>
   <div class="contents" style="text-align: left;">
