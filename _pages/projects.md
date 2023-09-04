@@ -12,7 +12,7 @@ author_profile: true
 <div class="user-projects">
   <div class="images-right" style="float: left; margin-right: 110px;">
     <picture>
-      <img alt="Excess Mort" src="/images/map_men.jpg" width="200px" height="200px" style="text-align: center;">
+      <img alt="Excess Mort" src="/images/map_men.jpg" width="200px" height="200px">
     </picture>
   </div>
   <div class="contents" style="text-align: left;">
@@ -34,15 +34,15 @@ author_profile: true
 </div>
 
 
-<!-- User Project #2: LGTBI Graphics -->
+<!-- User Project #2: LGBTI Graphics -->
 <div class="user-projects">
   <div class="images-right" style="float: left; margin-right: 10px;">
     <picture>
-      <img alt="LGTBI Graphics" src="/images/Discriminación_LGBTI.png" width="300px" height="300px">
+      <img alt="LGBTI Graphics" src="/images/Discriminación_LGBTI.png" width="300px" height="300px">
     </picture>
   </div>
   <div class="contents" style="text-align: left;">
-    <h3><a href="https://github.com/braulio-arteaga/LGBTI_Graphics">LGTBI Graphics</a></h3>
+    <h3><a href="https://github.com/braulio-arteaga/LGBTI_Graphics">LGBTI Graphics</a></h3>
     <div>
       <img
         height="32"
