@@ -34,7 +34,7 @@ author_profile: true
 </div>
 
 
-<!-- User Project #2: Excess Mort -->
+<!-- User Project #2: LGTBI Graphics -->
 <div class="user-projects">
   <div class="images-right" style="float: left; margin-right: 10px;">
     <picture>
@@ -54,17 +54,19 @@ author_profile: true
       <img height="32" width="32" src="https://unpkg.com/simple-icons@3.4.0/icons/github.svg" />
     </div>
     <p style="text-align: justify;">
-        Graphic design using the First Virtual Survey of LGBTI People - 2017.  <br/> <br/>
+        Graphic design using the First Virtual Survey of LGBTI People - 2017. <br/> <br/>  
     </p>
   </div>
 </div>
 
 
-<!-- User Project #3: Excess Mort -->
+
+
+<!-- User Project #3: WhatsApp messages bulk sending -->
 <div class="user-projects">
   <div class="images-right" style="float: left; margin-right: 10px;">
     <picture>
-      <img alt="WhatsApp messages bulk sending" src="/images/Discriminación_LGBTI.png" width="300px" height="300px">
+      <img alt="WhatsApp messages bulk sending" src="/images/test1.gif" width="300px" height="300px">
     </picture>
   </div>
   <div class="contents" style="text-align: left;">
@@ -86,7 +88,7 @@ author_profile: true
 </div>
 
 
-<!-- User Project #4: Excess Mort -->
+<!-- User Project #4: Tambos_MIDIS_Peru -->
 <div class="user-projects">
   <div class="images-right" style="float: left; margin-right: 10px;">
     <picture>
