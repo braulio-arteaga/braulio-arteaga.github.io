@@ -10,12 +10,12 @@ author_profile: true
 
 <!-- User Project #1: Excess Mort -->
 <div class="user-projects">
-  <div class="images-right" style="text-align: center;">
+  <div class="images-right" style="float: left; margin-right: 10px;">
     <picture>
       <img alt="Excess Mort" src="/images/map_men.jpg" width="250px" height="250px">
     </picture>
   </div>
-  <div class="contents" style="text-align: center;">
+  <div class="contents" style="text-align: left;">
     <h3><a href="https://github.com/healthinnovation/Excess_Mort">Excess Mort</a></h3>
     <div>
       <img
@@ -28,7 +28,7 @@ author_profile: true
       <img height="32" width="32" src="https://unpkg.com/simple-icons@3.4.0/icons/github.svg" />
     </div>
     <p style="text-align: justify;">
-        Estimation and analysis of excess mortality between 2020 and 2021 in Perú. This included data cleaning, descriptive and spatial analysis, and estimation using deterministic and bayesian methods.
+        Estimation and analysis of excess mortality between 2020 and 2021 in Perú. This included data cleaning, descriptive and spatial analysis, and estimation using deterministic and bayesian methods. <br/> <br/>  
     </p>
   </div>
 </div>
@@ -36,12 +36,12 @@ author_profile: true
 
 <!-- User Project #2: Excess Mort -->
 <div class="user-projects">
-  <div class="images-right" style="text-align: center;">
+  <div class="images-right" style="float: left; margin-right: 10px;">
     <picture>
-      <img alt="LGTBI Graphics" src="/images/Discriminación_LGBTI.png" width="474px" height="250px">
+      <img alt="LGTBI Graphics" src="/images/Discriminación_LGBTI.png" width="300px" height="300px">
     </picture>
   </div>
-  <div class="contents" style="text-align: center;">
+  <div class="contents" style="text-align: left;">
     <h3><a href="https://github.com/braulio-arteaga/LGBTI_Graphics">LGTBI Graphics</a></h3>
     <div>
       <img
