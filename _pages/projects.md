@@ -92,7 +92,7 @@ author_profile: true
 <div class="user-projects">
   <div class="images-right" style="float: left; margin-right: 10px;">
     <picture>
-      <img alt="Tambos_MIDIS_Peru" src="/images/Discriminación_LGBTI.png" width="300px" height="300px">
+      <img alt="Tambos_MIDIS_Peru" src="/images/tambo_midis.gif" width="300px" height="300px">
     </picture>
   </div>
   <div class="contents" style="text-align: left;">
