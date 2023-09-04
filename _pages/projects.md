@@ -10,9 +10,9 @@ author_profile: true
 
 <!-- User Project #1: Excess Mort -->
 <div class="user-projects">
-  <div class="images-right" style="float: left; margin-right: 50px;">
+  <div class="images-right" style="float: left; margin-right: 11)110px;">
     <picture>
-      <img alt="Excess Mort" src="/images/map_men.jpg" width="200px" height="200px">
+      <img alt="Excess Mort" src="/images/map_men.jpg" width="200px" height="200px" style="text-align: center;">
     </picture>
   </div>
   <div class="contents" style="text-align: left;">
