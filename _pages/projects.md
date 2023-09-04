@@ -54,7 +54,7 @@ author_profile: true
       <img height="32" width="32" src="https://unpkg.com/simple-icons@3.4.0/icons/github.svg" />
     </div>
     <p style="text-align: justify;">
-        Graphic design using the First Virtual Survey of LGBTI People - 2017.
+        Graphic design using the First Virtual Survey of LGBTI People - 2017.  <br/> <br/>
     </p>
   </div>
 </div>
