@@ -12,7 +12,7 @@ author_profile: true
 <div class="user-projects">
   <div class="images-right" style="float: left; margin-right: 10px;">
     <picture>
-      <img alt="Excess Mort" src="/images/map_men_2017_2021.jpg" width="100px" height="150px">
+      <img alt="Excess Mort" src="/images/map_men_2017_2021.jpg" width="150px" height="150px">
     </picture>
   </div>
   <div class="contents" style="text-align: left;">
@@ -28,7 +28,7 @@ author_profile: true
       <img height="32" width="32" src="https://unpkg.com/simple-icons@3.4.0/icons/github.svg" />
     </div>
     <p style="text-align: justify;">
-        I contributed to the estimation and analysis of excess mortality between 2020 and 2021 in Perú. This included data cleaning, descriptive and spatial analysis, and estimation using deterministic and bayesian methods.
+        Estimation and analysis of excess mortality between 2020 and 2021 in Perú. This included data cleaning, descriptive and spatial analysis, and estimation using deterministic and bayesian methods.
     </p>
   </div>
 </div>
@@ -54,7 +54,7 @@ author_profile: true
       <img height="32" width="32" src="https://unpkg.com/simple-icons@3.4.0/icons/github.svg" />
     </div>
     <p style="text-align: justify;">
-        Charts showing the social problems of this population in Peru using the First Virtual Survey for LGBTI People - 2017.
+        Graphic design using the First Virtual Survey of LGBTI People - 2017.
     </p>
   </div>
 </div>
@@ -80,7 +80,7 @@ author_profile: true
       <img height="32" width="32" src="https://unpkg.com/simple-icons@3.4.0/icons/github.svg" />
     </div>
     <p style="text-align: justify;">
-        Python notebook allows send bulk whatsapp messages to contacts (not necessarily saved) using an excel file and the selenium package. It also produces a final report on the sending status of the messages.
+        Web scraping that sends bulk Whatsapp messages to contacts (not necessarily saved) using an excel file and the selenium package. It also produces a final report on the sending status of the messages.
     </p>
   </div>
 </div>
@@ -106,7 +106,7 @@ author_profile: true
       <img height="32" width="32" src="https://unpkg.com/simple-icons@3.4.0/icons/github.svg" />
     </div>
     <p style="text-align: justify;">
-        Web scraping with Python of the "PAIS" social program web page to obtain information on the "Tambos" (fixed platforms in rural areas) at the district level in Peru.
+        Web scraping of the "PAIS" social program website to obtain information on "Tambos" (fixed platforms in rural areas) at the district level in Peru.
     </p>
   </div>
 </div>
