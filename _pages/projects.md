@@ -12,7 +12,7 @@ author_profile: true
 <div class="user-projects">
   <div class="images-right" style="float: center; margin-right: 15px;">
     <picture>
-      <img alt="Excess Mort" src="/images/map_men_2017_2021.jpg" width="300px" height="300px">
+      <img alt="Excess Mort" src="/images/map_men.jpg" width="300px" height="300px">
     </picture>
   </div>
   <div class="contents" style="text-align: left;">
@@ -38,7 +38,7 @@ author_profile: true
 <div class="user-projects">
   <div class="images-right" style="float: left; margin-right: 10px;">
     <picture>
-      <img alt="LGTBI Graphics" src="/images/2.Discriminación_LGBTI.png" width="300px" height="300px">
+      <img alt="LGTBI Graphics" src="/images/Discriminación_LGBTI.png" width="300px" height="300px">
     </picture>
   </div>
   <div class="contents" style="text-align: left;">
@@ -64,7 +64,7 @@ author_profile: true
 <div class="user-projects">
   <div class="images-right" style="float: left; margin-right: 10px;">
     <picture>
-      <img alt="WhatsApp messages bulk sending" src="/images/2.Discriminación_LGBTI.png" width="300px" height="300px">
+      <img alt="WhatsApp messages bulk sending" src="/images/Discriminación_LGBTI.png" width="300px" height="300px">
     </picture>
   </div>
   <div class="contents" style="text-align: left;">
@@ -90,7 +90,7 @@ author_profile: true
 <div class="user-projects">
   <div class="images-right" style="float: left; margin-right: 10px;">
     <picture>
-      <img alt="Tambos_MIDIS_Peru" src="/images/2.Discriminación_LGBTI.png" width="300px" height="300px">
+      <img alt="Tambos_MIDIS_Peru" src="/images/Discriminación_LGBTI.png" width="300px" height="300px">
     </picture>
   </div>
   <div class="contents" style="text-align: left;">
