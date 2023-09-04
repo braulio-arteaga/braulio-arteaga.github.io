@@ -12,7 +12,7 @@ author_profile: true
 <div class="user-projects">
   <div class="images-right" style="float: left; margin-right: 10px;">
     <picture>
-      <img alt="Excess Mort" src="/images/map_men_2017_2021.jpg" width="300px" height="100px">
+      <img alt="Excess Mort" src="/images/map_men_2017_2021.jpg" width="50px" height="150px">
     </picture>
   </div>
   <div class="contents" style="text-align: left;">
@@ -38,7 +38,7 @@ author_profile: true
 <div class="user-projects">
   <div class="images-right" style="float: left; margin-right: 10px;">
     <picture>
-      <img alt="LGTBI Graphics" src="/images/2.Discriminación_LGBTI.png" width="50px" height="150px">
+      <img alt="LGTBI Graphics" src="/images/2.Discriminación_LGBTI.png" width="300px" height="150px">
     </picture>
   </div>
   <div class="contents" style="text-align: left;">
