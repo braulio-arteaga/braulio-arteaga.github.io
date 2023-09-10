@@ -54,7 +54,7 @@ author_profile: true
       <img height="32" width="32" src="https://unpkg.com/simple-icons@3.4.0/icons/github.svg" />
     </div>
     <p style="text-align: justify;">
-        Graphic design using the First Virtual Survey of LGBTI People - 2017. <br/> <br/>  
+        Graphics design using the "First Virtual Survey of LGBTI  People - 2017" in Perú. <br/> <br/>  
     </p>
   </div>
 </div>
@@ -66,7 +66,7 @@ author_profile: true
 <div class="user-projects">
   <div class="images-right" style="float: left; margin-right: 10px;">
     <picture>
-      <img alt="WhatsApp messages bulk sending" src="/images/tambo_midis.gif" width="300px" height="300px">
+      <img alt="WhatsApp messages bulk sending" src="/images/wsp_send.gif" width="300px" height="300px">
     </picture>
   </div>
   <div class="contents" style="text-align: left;">
