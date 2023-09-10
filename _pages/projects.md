@@ -66,7 +66,7 @@ author_profile: true
 <div class="user-projects">
   <div class="images-right" style="float: left; margin-right: 10px;">
     <picture>
-      <img alt="WhatsApp messages bulk sending" src="/images/wsp_send.gif" width="300px" height="300px">
+      <img alt="WhatsApp messages bulk sending" src="/images/wsp_send_.gif" width="300px" height="300px">
     </picture>
   </div>
   <div class="contents" style="text-align: left;">
